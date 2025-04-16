@@ -9,3 +9,6 @@
 
 # Mijn game heeft platforms zodat je kan platformen in de platformer
 # https://github.com/Agentblue7/M3bo-mita/blob/main/derde.gif Hier is de gif (het is te groot voor github)
+
+# Mijn game heeft iets om te verzamelen zodat mensen iets hebben te doen in de game naast alleen parkour
+# https://github.com/Agentblue7/M3bo-mita/blob/main/vierde.gif git te groot voor github
