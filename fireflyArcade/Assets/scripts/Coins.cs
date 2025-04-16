@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEditor.SearchService;
+using UnityEngine.SceneManagement;
 
 public class Coins : MonoBehaviour
 {
@@ -32,6 +34,11 @@ public class Coins : MonoBehaviour
         if (coinText != null)
         {
             coinText.text = $"Coins: {coinCount}";
+        }
+
+        if (coinCount >= 15)
+        {
+            SceneManager.LoadScene("einde");
         }
     }
 }
