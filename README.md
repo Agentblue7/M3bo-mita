@@ -12,3 +12,6 @@
 
 # Mijn game heeft iets om te verzamelen zodat mensen iets hebben te doen in de game naast alleen parkour
 # https://github.com/Agentblue7/M3bo-mita/blob/main/vierde.gif git te groot voor github
+
+# Als je alle munten hebt moet het spel eindigen in mijn game en dat is nu gelukt
+# ![einde](https://github.com/user-attachments/assets/f8d98bf2-f605-45b2-8f12-9e6da255428d)
