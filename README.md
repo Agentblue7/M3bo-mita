@@ -4,5 +4,8 @@
 #
 #![Tweede](https://github.com/user-attachments/assets/11655e84-eca6-4d76-9041-b01bbf699e7b)
 
-#Mijn game heeft een main menu zodat je niet meteen het spel ingaat je het een start knop en als je daar op druk dan begint het spel.
-#![nieuwste](https://github.com/user-attachments/assets/f8d75302-36aa-4cba-bd34-392c527b080b)
+# Mijn game heeft een main menu zodat je niet meteen het spel ingaat je het een start knop en als je daar op druk dan begint het spel.
+# ![nieuwste](https://github.com/user-attachments/assets/f8d75302-36aa-4cba-bd34-392c527b080b)
+
+# Mijn game heeft platforms zodat je kan platformen in de platformer
+# https://github.com/Agentblue7/M3bo-mita/blob/main/derde.gif Hier is de gif (het is te groot voor github)
